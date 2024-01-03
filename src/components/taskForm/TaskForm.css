@@ -1,0 +1,26 @@
+* {
+  box-sizing: border-box;
+}
+
+form {
+  border: 3px solid #30313d;
+  /* width: fit-content; */
+  border-radius: 10px;
+  padding: 5px;
+  display: flex;
+}
+
+form input[type="text"] {
+  background: none;
+  border: 0;
+  padding: 0px 8px;
+  display: block;
+  color: white;
+}
+
+form button {
+  background-color: #61dafb;
+  border: 0;
+  border-radius: 25%;
+  cursor: pointer;
+}

@@ -1,0 +1,9 @@
+.checkbox-main {
+    display: flex;
+}
+
+svg {
+    height: 20px;
+    margin-right: 6px;
+    fill: #61dafb;
+}
